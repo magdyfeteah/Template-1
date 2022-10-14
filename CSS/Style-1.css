@@ -180,7 +180,9 @@ html{
     .header .links ul li:hover a{
         margin-left: 10px; ;
     }
-
+    .header .links::selection ul{
+        display: none;
+    }
 /* End Header */
 
 
