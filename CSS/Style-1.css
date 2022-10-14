@@ -38,15 +38,11 @@ html{
     margin-right: auto;
     margin-left: auto;
 }
-@media (min-height:812px){
-   .page{
-    height: 750px;
-   }
-}
 
-@media (min-width:375px){
+
+@media (min-width:360px){
     .container{
-        width: 350px;
+        width: 320px;
     }
 }
 /* Small */
